@@ -10,5 +10,5 @@
 
 <div>
  <img align="top" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntan-wan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ntan-wan"/>
-<img align="top" width="47%" src="https://github-readme-stats.vercel.app/api?username=ntan-wan&show_icons=true&locale=en&theme=tokyonight" alt="ntan-wan" /></p>
+<img align="top" width="47%" height="190" src="https://github-readme-stats.vercel.app/api?username=ntan-wan&show_icons=true&locale=en&theme=tokyonight" alt="ntan-wan" /></p>
 </div>
