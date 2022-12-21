@@ -6,9 +6,12 @@
  <img width="50%" alt="Coding"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 </div>
 
-<h3 align="center">
- A passionate software developer!
-</h3>
+<h4 align="center">
+- 🔭 I’m currently working on 42 Core Programme
+ <br/>
+ <br/>
+- 🌱 I’m currently learning Java, Javascript, React
+</h4>
 
 ## ⚡ Languages and Frameworks:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -35,6 +38,7 @@
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
+<br/>
 <br/>
 <br/>
 
