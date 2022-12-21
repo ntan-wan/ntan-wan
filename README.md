@@ -40,13 +40,21 @@
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
 <br/>
 <br/>
-<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📜 Github Stats:
 
-<div>
- <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntan-wan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ntan-wan"/>
- <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=ntan-wan&show_icons=true&locale=en&theme=tokyonight&line_height=31.5" alt="ntan-wan" />
- <img align="top" width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
- <img align="top" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
-</div>
+<p align="center">
+ <a href="https://github.com/ntan-wan">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntan-wan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" width="450"/>
+ </a>
+ <a href="https://github.com/ntan-wan">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntan-wan&theme=tokyonight" width="380"/>
+ </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+    <a href="https://github.com/ntan-wan"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntan-wan&theme=tokyonight&hide_border=true"  width="520" alt="ntan-want"/></a>
+ <a href="https://github.com/ntan-wan"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntan-wan&langs_count=6&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="ntan-wan"/></a>
+</p>     
