@@ -42,11 +42,11 @@
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntan-wan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ntan-wan"/>
  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=ntan-wan&show_icons=true&locale=en&theme=tokyonight&line_height=31.5" alt="ntan-wan" />
- <img align="top" "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
- <img align="top" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
+ <img align="top" width="48.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
+ <img align="top" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntan-wan&theme=tokyonight" alt="ntan-wan"/>
 </div>
